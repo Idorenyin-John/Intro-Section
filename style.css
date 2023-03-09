@@ -75,7 +75,7 @@ body{
     display: flex;
     align-items: center;
     position: relative;
-    padding: 12px 20px;
+    padding: 10px 10px;
 }
 
 .logo img{
